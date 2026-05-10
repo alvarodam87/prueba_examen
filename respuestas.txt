@@ -1,0 +1,7 @@
+a)  El simbolo - aparece delante de los atributos y el + delante de los metodos. Que significa cada 
+uno? 
+El simbolo - indica que el atributo o metodo es privado, lo que significa que solo puede ser accedido dentro de la clase. El simbolo + indica que el atributo o metodo es publico, lo que significa que puede ser accedido desde cualquier parte del programa.
+b)  Que tipo de dato es disponible y que dos valores puede tener? 
+El tipo de dato disponible es el booleano (bool), y puede tener dos valores: true (verdadero) o false (falso). Este tipo de dato se utiliza para representar condiciones lógicas y tomar decisiones en el código.
+c)  Para que sirve el metodo ToString() en una clase? 
+El metodo ToString() en una clase se utiliza para proporcionar una representación en forma de cadena de texto del objeto. Este metodo es especialmente útil para mostrar información relevante sobre el objeto de manera legible, como sus atributos o estado. Al llamar a ToString(), se obtiene una descripción del objeto que puede ser utilizada para depuración, impresión o cualquier situación donde se necesite una representación textual del objeto.
